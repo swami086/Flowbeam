@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import Script from "next/script"
+// React Bricks is now handled in admin layout
 import "./globals.css"
 
 const inter = Inter({ subsets: ["latin"] })
